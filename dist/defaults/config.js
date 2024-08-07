@@ -14,7 +14,7 @@ module.exports = {
     //   channels and scrollbacks are available when they come back.
     //
     // This value is set to `false` by default.
-    public: false,
+    public: true,
     // ### `host`
     //
     // IP address or hostname for the web server to listen to. For example, set it
