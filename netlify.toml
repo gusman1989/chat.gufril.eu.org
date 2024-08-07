@@ -1,0 +1,3 @@
+[build]
+  command = "NODE_ENV=production yarn build && ln -s $(pwd)/index.js $(pwd)/thelounge"
+  publish = "build"
