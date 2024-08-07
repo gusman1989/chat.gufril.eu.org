@@ -1,0 +1,4 @@
+{
+  "temp-dir": "./node_modules/.cache/nyc_output",
+  "reporter": ["lcov", "text-summary"]
+}
